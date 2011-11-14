@@ -1,6 +1,10 @@
 ========
 Country
 ========
+The **Country and Subdivision** module facilitates the users to define their
+location to the best possible precision of subdivisions, wherein subdivisions
+can refer to states, counties, federal states etc.
+
 *OpenERP* provides the list of countries and currencies. But it does not provide
 the list of States/Country/Subdivisions.
 
